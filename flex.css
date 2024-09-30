@@ -15,7 +15,6 @@
 /* Colors for each box */
 .box1 { 
   background:#1abc9c;
-  flex-grow: ;
   width: 98%;
   height: 35%;
 }
@@ -71,40 +70,4 @@
   align-items: stretch;
   align-content: space-evenly;
   max-width: 1280px;
-}
-
-[class^="box"] {
-    
-}
-
-.box1 {
-  
-}
-
-.box2 {
-
-}
-.box3 {
-
-}
-.box4 {
-
-}
-.box5 {
-
-}
-.box6 {
-
-}
-.box7 {
-
-}
-.box8 {
-
-}
-.box9 {
-
-}
-.box10 {
-
 }
